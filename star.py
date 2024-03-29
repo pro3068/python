@@ -19,4 +19,4 @@ for i in range(1, 11):
         print(chr(65+j),end="")
     print()"""
     
-    
+#just for fun
